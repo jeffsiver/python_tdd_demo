@@ -1,8 +1,8 @@
-from typing import List
+from typing import List, Tuple
 
 
 class BowlingScore:
-    def __init__(self, pins_down: List[]):
+    def __init__(self, pins_down: List[Tuple[int, ...]]):
         self.pins_down = pins_down
 
     def get_score(self) -> int:
