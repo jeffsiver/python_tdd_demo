@@ -5,6 +5,6 @@ checkout [wikipedia](https://en.wikipedia.org/wiki/Ten-pin_bowling#Traditional_s
 
 ## Exercise Setup
 For this exercise, we will assume:
-1. Each frame has the correct number of inputs.
-2. There are the correct number of frames.
+1. The inputs are valid.
+2. Only calculating the final score.
 
